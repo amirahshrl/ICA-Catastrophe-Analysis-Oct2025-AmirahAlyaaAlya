@@ -14,29 +14,7 @@ The objective of this analysis is to understand:
 - Data quality issues and preprocessing considerations  
 
 This repository includes **Power BI dashboards**, **R scripts**, **cleaned datasets**, and documented methodology to support catastrophe modeling and actuarial insights.
-ICA-Catastrophe-Analysis/
-│
-├── PowerBI/
-│ └── Catastrophe_Dashboard.pbix
-│
-├── R/
-│ ├── data_cleaning.R
-│ ├── frequency_severity_analysis.R
-│ ├── severity_trend_plot.R
-│ ├── heatmap_visualisation.R
-│ └── README.md
-│
-├── Data/
-│ ├── cleaned_dataset.csv
-│ └── (raw data omitted due to confidentiality)
-│
-├── Figures/
-│ ├── claims_by_catastrophe.png
-│ ├── total_claims_by_year.png
-│ └── additional_visuals.png
-│
-└── README.md
----
+
 
 # Data Cleaning & Pre-processing (Excel)
 
