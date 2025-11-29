@@ -1,4 +1,5 @@
 # ICA-Catastrophe-Analysis-Oct2025-AmirahAlyaaAlya
+**Author: Alyaa Khoirunnisaa Fajri, Alya Aqilah Aidy, Nurul Amirah Sahrul Nizam**
 Power BI dashboards, R scripts, and data analysis for Catastrophe ICA (October dataset). Includes frequency–severity , trend analysis, heatmaps, and catastrophe claim profiling. For CAS ARECA Competition 2025
 
 # Catastrophe Claims Analysis (ICA – October Dataset)
@@ -20,7 +21,7 @@ This repository includes **Power BI dashboards**, **R scripts**, **cleaned datas
 
 The dataset required several preprocessing steps before loading into Power BI and R.
 
-### **1. Removed records with missing Loss Values ** 
+### **1. Removed records with missing Loss Values** 
 Rows with both empty Normalized Loss values & Original Normalized Values were deleted because:
 - They distort severity calculations  
 - They cannot be reliably imputed  
@@ -62,7 +63,7 @@ They were replaced with empty cells so that:
 - Claim frequency patterns  
 - Normalized vs Original loss comparison  
 
-Screenshots available in `/Figures`.
+File available in folder.
 
 ---
 
@@ -89,7 +90,7 @@ Includes:
 - Bar charts for frequency  
 - Dual plots combining normalized & original values  
 
-R scripts are included in the `/R` folder.
+R scripts are included in the  folder.
 
 ---
 The dataset was cleaned, transformed, visualised, and modelled mainly to:
